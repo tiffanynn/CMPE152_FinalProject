@@ -23,6 +23,7 @@ stmts:
         ;
 
 assign: ID '=' allexpr ';'
+        | incdecexpr
         ;
 
 stmt: assign
