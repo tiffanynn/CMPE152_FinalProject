@@ -83,6 +83,8 @@ factor : '(' allexpr ')'
 
 WHILE  : 'while';
 ASSIGN : '=';
+NOTEQUAL : '!=';
+RANGE: 'range';
 
 
 ID     :  [a-zA-Z][a-zA-z0-9]*;
