@@ -12,7 +12,7 @@ What's inside the repository:
 3. three source programs that will be tested
 
 These three source programs contain:
-1. print function
+1. assignment statements
 2. arthimetic statements
 3. logical statements
 
