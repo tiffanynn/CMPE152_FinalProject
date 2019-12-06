@@ -17,5 +17,11 @@ These three source programs contain:
 3. logical statements
 
 HOW TO BUILD AND RUN OUR COMPILER:
+1.
+2.
+3.
+
+
 
 HOW TO RUN TARGET CODE:
+We still have not been able run our code.
